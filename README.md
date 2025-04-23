@@ -1,6 +1,6 @@
 # SRT Translator
 
-A simple tool to translate subtitle files (.srt) into different languages using free translation services.
+A simple tool to translate subtitle files (.srt) into different languages using GoogleTranslator.
 
 ## Features
 
@@ -101,7 +101,3 @@ The translator supports over 100 languages. Some common language codes:
 - Russian: `ru`
 
 For a full list of supported languages and their codes, check the [Google Translate supported languages](https://cloud.google.com/translate/docs/languages).
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
